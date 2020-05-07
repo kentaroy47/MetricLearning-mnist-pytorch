@@ -1,2 +1,8 @@
 # arcface-mnist
-try arcface with mnist @pytorch
+try Metric Learning with MNIST!
+
+## ArcFace
+`arcface.ipynb`
+
+## CosFace
+`cosface.ipynb`
