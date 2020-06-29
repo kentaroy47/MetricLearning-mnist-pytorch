@@ -1,6 +1,11 @@
 # arcface-mnist
 try Metric Learning with MNIST!
 
+## What is this repo?
+We try various metric learning with MNIST dataset.
+
+Please see the each notebooks for the codes.
+
 ![](tsne_classification.png)
 
 ## ArcFace
