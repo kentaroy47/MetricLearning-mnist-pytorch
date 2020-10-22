@@ -1,8 +1,8 @@
-# arcface-mnist
+# MetricLearning with MNIST w/pytorch
 try Metric Learning with MNIST!
 
 ## What is this repo?
-We try various metric learning with MNIST dataset.
+We try various metric learning with MNIST dataset and visualize results with T-SNE.
 
 Please see the each notebooks for the codes.
 
