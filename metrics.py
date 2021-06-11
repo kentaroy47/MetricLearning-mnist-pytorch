@@ -6,7 +6,7 @@ import torch.nn.functional as F
 from torch.nn import Parameter
 import math
 
-
+# https://www.kaggle.com/tanulsingh077/pytorch-metric-learning-pipeline-only-images#Model
 class ArcMarginProduct(nn.Module):
     r"""Implement of large margin arc distance: :
         Args:
